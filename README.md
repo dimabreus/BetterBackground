@@ -1,0 +1,2 @@
+# BetterBackground
+Плагин для BetterDiscord
